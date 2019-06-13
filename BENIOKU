@@ -1,0 +1,15 @@
+
+AMBARI AUTO CLUSTER INSTALLER ( A2CI ) PROGRAMI
+
+
+Programın Amacı   : Ambari büyük veri platformunun server ve agent sunucular üzerinde kolay ve hızlı  bir şekilde kurulumunu sağlamak ve sunucular üzerinde bazı konfigurasyon değişikliklerini kolay bir şekilde yapabilmek.
+
+Programın yazarı  : msyavuz@gmail.com
+
+Programın Desteklediği işletim sistemleri  : Redhat/Centos/OEL 6 veya 7
+
+Gerekli Sunucu Alt Yapısı : Tüm sunucular konfig dosyasında belirtilen repolara ve birbirlerine erişilebilir durumda olmalıdır. Sunucuların üzerlerinde yukarıdaki belirtilen işletim sistemleri yüklü olmalı, tüm sunucularda sshd servisi çalışır halde bulunmalıdır. 
+
+
+
+python installAC.py
